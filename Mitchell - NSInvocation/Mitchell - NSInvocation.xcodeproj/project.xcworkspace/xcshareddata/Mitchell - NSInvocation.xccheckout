@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B150D2E-46C9-4D90-8ED4-AA065A636F0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Mitchell - NSInvocation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AEC35ACC533216FDD54260E68A8A000410066971</key>
+		<string>https://github.com/mcmengchen/iOS---MIthcell-NSInvocation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mitchell - NSInvocation/Mitchell - NSInvocation.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AEC35ACC533216FDD54260E68A8A000410066971</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mcmengchen/iOS---MIthcell-NSInvocation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AEC35ACC533216FDD54260E68A8A000410066971</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AEC35ACC533216FDD54260E68A8A000410066971</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E8%87%AA%E5%B7%B1github%E7%9A%84%E5%BA%93</string>
+		</dict>
+	</array>
+</dict>
+</plist>
